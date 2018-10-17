@@ -37,6 +37,7 @@ $(function () {
     // ------------------------------------------------------ //
     // For demo purposes, can be deleted
     // ------------------------------------------------------ //
+    /*
 
     var stylesheet = $('link#theme-stylesheet');
     $( "<link id='new-stylesheet' rel='stylesheet'>" ).insertAfter(stylesheet);
@@ -59,6 +60,6 @@ $(function () {
         }
 
         return false;
-    });
+    });*/
 
 });
